@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthearthmoc&layout=compact&langs_count=7&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthearthmoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
+  9
 ## Ferramentas e Tecnologias
 <div>
   <img align="center" alt="imthearthmoc-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
