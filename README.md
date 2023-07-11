@@ -1,9 +1,13 @@
 ## Olá! Eu sou o Arthur! 👋
 
 #### Seja Bem vindo(a) ao meu perfil do GitHub!
-- 📌 Atualmente moro em Londrina - PR
-- 📚 Cursando Analise e Desenvolvimento de Sistemas (IFPR)
+- 📚 Graduando em Analise e Desenvolvimento de Sistemas (IFPR)
 - 👨‍💻 Desenvolvedor Backend
+
+<div>
+  <a href="https://github.com/imthearthmoc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthearthmoc&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
 ## Tecnologias
 <div style="display: inline_block">
