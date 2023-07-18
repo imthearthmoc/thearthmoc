@@ -3,11 +3,6 @@
 #### Seja Bem vindo(a) ao meu perfil do GitHub!
 - 📚 Graduando em Analise e Desenvolvimento de Sistemas (IFPR)
 - 👨‍💻 Desenvolvedor Backend
-
-<div>
-  <a href="https://github.com/imthearthmoc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthearthmoc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 ## Tecnologias
 <div style="display: inline_block">
@@ -21,9 +16,4 @@
   <a href="https://www.linkedin.com/in/imthearthmoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-
-<div>
-  ![Snake animation](https://github.com/imthearthmoc/imthearthmoc/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 
