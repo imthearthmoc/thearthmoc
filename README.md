@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arthur! 👋
 
 #### Seja Bem vindo(a) ao meu perfil do GitHub!
-- 📚 Graduando em Analise e Desenvolvimento de Sistemas (IFPR)
+- 📚 Graduando em Analise e Desenvolvimento de Sistemas
 - 👨‍💻 Desenvolvedor Backend
   
 ## Tecnologias
